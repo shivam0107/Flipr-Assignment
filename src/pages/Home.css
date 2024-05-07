@@ -1,0 +1,11 @@
+.home-div{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 100px;
+    gap: 200px;
+}
+
+.home-button{
+    padding: 20px;
+}
